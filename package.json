@@ -65,7 +65,7 @@
     "@metamask/snaps-controllers": "^8.3.1",
     "@metamask/snaps-sdk": "^5.0.0",
     "@metamask/snaps-utils": "^7.4.1",
-    "@metamask/utils": "^8.4.0",
+    "@metamask/utils": "^9.2.0",
     "@reduxjs/toolkit": "^1.9.6",
     "framer-motion": "^10.16.2",
     "gatsby": "^5.13.3",
